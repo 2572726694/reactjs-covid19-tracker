@@ -1,3 +1,7 @@
+demo
+
+https://stoic-lewin-8fe28b.netlify.app/
+
 npx create-react-app
 
 npm i '@material-ui/core' react-chartjs-2 chartjs react-countup axios
