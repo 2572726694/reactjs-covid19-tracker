@@ -1,9 +1,5 @@
 npx create-react-app
-npm i '@material-ui/core'
-npm i react-chartjs-2
-npm i chartjs
-npm i react-countup 
-npm i axios
+npm i '@material-ui/core' react-chartjs-2 chartjs react-countup axios
 
 ui
 https://material-ui.com/zh/components/selects/#api
